@@ -1,0 +1,11 @@
+E:\Problems\wsdltest\wsdltest\bin\Debug\wsdltest.exe.config
+E:\Problems\wsdltest\wsdltest\bin\Debug\wsdltest.exe
+E:\Problems\wsdltest\wsdltest\bin\Debug\wsdltest.pdb
+E:\Problems\wsdltest\wsdltest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\wsdltest\obj\x86\Debug\wsdltest.exe
+E:\Problems\wsdltest\wsdltest\obj\x86\Debug\wsdltest.pdb
+F:\wsdltest\wsdltest\bin\Debug\wsdltest.exe.config
+F:\wsdltest\wsdltest\bin\Debug\wsdltest.exe
+F:\wsdltest\wsdltest\bin\Debug\wsdltest.pdb
+F:\wsdltest\wsdltest\obj\x86\Debug\wsdltest.exe
+F:\wsdltest\wsdltest\obj\x86\Debug\wsdltest.pdb

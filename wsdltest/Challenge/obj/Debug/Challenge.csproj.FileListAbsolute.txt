@@ -1,0 +1,15 @@
+E:\Problems\wsdltest\Challenge\bin\Challenge.dll
+E:\Problems\wsdltest\Challenge\bin\Challenge.pdb
+E:\Problems\wsdltest\Challenge\bin\RedBillLibrary.dll
+E:\Problems\wsdltest\Challenge\bin\RedBillLibrary.pdb
+E:\Problems\wsdltest\Challenge\obj\Debug\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\Challenge\obj\Debug\Challenge.dll
+E:\Problems\wsdltest\Challenge\obj\Debug\Challenge.pdb
+F:\wsdltest\Challenge\bin\Challenge.dll.config
+F:\wsdltest\Challenge\bin\Challenge.dll
+F:\wsdltest\Challenge\bin\Challenge.pdb
+F:\wsdltest\Challenge\bin\RedBillLibrary.dll
+F:\wsdltest\Challenge\bin\RedBillLibrary.pdb
+F:\wsdltest\Challenge\obj\Debug\Challenge.csprojResolveAssemblyReference.cache
+F:\wsdltest\Challenge\obj\Debug\Challenge.dll
+F:\wsdltest\Challenge\obj\Debug\Challenge.pdb

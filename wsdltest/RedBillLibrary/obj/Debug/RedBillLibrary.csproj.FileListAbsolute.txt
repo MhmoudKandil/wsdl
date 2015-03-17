@@ -1,0 +1,12 @@
+E:\Problems\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.dll.config
+E:\Problems\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.dll
+E:\Problems\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.pdb
+E:\Problems\wsdltest\RedBillLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\RedBillLibrary\obj\Debug\RedBillLibrary.dll
+E:\Problems\wsdltest\RedBillLibrary\obj\Debug\RedBillLibrary.pdb
+F:\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.dll.config
+F:\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.dll
+F:\wsdltest\RedBillLibrary\bin\Debug\RedBillLibrary.pdb
+F:\wsdltest\RedBillLibrary\obj\Debug\RedBillLibrary.dll
+F:\wsdltest\RedBillLibrary\obj\Debug\RedBillLibrary.pdb
+F:\wsdltest\RedBillLibrary\obj\Debug\RedBillLibrary.csprojResolveAssemblyReference.cache

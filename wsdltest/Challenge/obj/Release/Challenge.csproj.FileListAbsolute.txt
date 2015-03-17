@@ -1,0 +1,7 @@
+E:\Problems\wsdltest\Challenge\bin\Challenge.dll
+E:\Problems\wsdltest\Challenge\bin\Challenge.pdb
+E:\Problems\wsdltest\Challenge\obj\Release\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\Challenge\obj\Release\Challenge.dll
+E:\Problems\wsdltest\Challenge\obj\Release\Challenge.pdb
+E:\Problems\wsdltest\Challenge\bin\RedBillLibrary.dll
+E:\Problems\wsdltest\Challenge\bin\RedBillLibrary.pdb

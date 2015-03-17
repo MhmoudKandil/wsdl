@@ -1,0 +1,12 @@
+E:\Problems\wsdltest\Tester\bin\Debug\Tester.exe.config
+E:\Problems\wsdltest\Tester\bin\Debug\Tester.exe
+E:\Problems\wsdltest\Tester\bin\Debug\Tester.pdb
+E:\Problems\wsdltest\Tester\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\Tester\obj\x86\Debug\Tester.exe
+E:\Problems\wsdltest\Tester\obj\x86\Debug\Tester.pdb
+F:\wsdltest - Copy\wsdltest\Tester\obj\x86\Debug\Tester.csprojResolveAssemblyReference.cache
+F:\wsdltest - Copy\wsdltest\Tester\obj\x86\Debug\Tester.exe
+F:\wsdltest - Copy\wsdltest\Tester\bin\Debug\Tester.exe.config
+F:\wsdltest - Copy\wsdltest\Tester\bin\Debug\Tester.exe
+F:\wsdltest - Copy\wsdltest\Tester\bin\Debug\Tester.pdb
+F:\wsdltest - Copy\wsdltest\Tester\obj\x86\Debug\Tester.pdb

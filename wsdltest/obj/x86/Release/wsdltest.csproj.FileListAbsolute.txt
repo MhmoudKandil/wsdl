@@ -1,0 +1,6 @@
+E:\Problems\wsdltest\wsdltest\bin\Release\wsdltest.exe.config
+E:\Problems\wsdltest\wsdltest\bin\Release\wsdltest.exe
+E:\Problems\wsdltest\wsdltest\bin\Release\wsdltest.pdb
+E:\Problems\wsdltest\wsdltest\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\wsdltest\obj\x86\Release\wsdltest.exe
+E:\Problems\wsdltest\wsdltest\obj\x86\Release\wsdltest.pdb

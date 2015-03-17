@@ -1,0 +1,6 @@
+E:\Problems\wsdltest\RedBillLibrary\bin\Release\RedBillLibrary.dll.config
+E:\Problems\wsdltest\RedBillLibrary\bin\Release\RedBillLibrary.dll
+E:\Problems\wsdltest\RedBillLibrary\bin\Release\RedBillLibrary.pdb
+E:\Problems\wsdltest\RedBillLibrary\obj\Release\ResolveAssemblyReference.cache
+E:\Problems\wsdltest\RedBillLibrary\obj\Release\RedBillLibrary.dll
+E:\Problems\wsdltest\RedBillLibrary\obj\Release\RedBillLibrary.pdb
